@@ -1,6 +1,5 @@
 # Biology
-Yapay ortam
 
-Şuan ki kodda Tilki ve tavşan sınıfları aktif Çimler Pasif çimlerle ilgili kod yazınca tavşanların çimleri yemesini sağlayamadık. 
-pp_sim_main.py --> Main program
-pp_sim.py --> Arka plan Çağrılan kısımlar
+In the current code, the Fox and Rabbit classes are active, Lawns We were unable to make the rabbits eat the grass when we wrote the code about Passive lawns.
+pp_sim_main.py -> Main program
+pp_sim.py -> Background Called parts
